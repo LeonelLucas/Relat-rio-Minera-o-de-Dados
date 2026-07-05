@@ -19,3 +19,8 @@ Realizado logo após a análise exploratória, dividido em dois cenários:
 * **Cenário Binário:**
   * **Notebook:** `Treinamento binario`
   * **Descrição:** Treinamento e avaliação dos modelos no cenário binário.
+
+* **Datsets utilizados:**
+  * **Original:** `Obfuscated-MalMem2022`
+  * **Dataset multiclasse:** `dataset_spyware_float32`
+  * **Dataset binário:** `dataset_spyware_binary_float32`
